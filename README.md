@@ -10,5 +10,4 @@ Coming soon.
 
 [Digital audio Workspace (DAWS) ](j01/)
 
-    "Name": "Reynaldo Cuesta",
-    "Date": "March 06, 2024",
+Reynaldo Cuesta, March 17, 2024
