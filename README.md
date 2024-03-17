@@ -8,4 +8,6 @@ Coming soon.
 
 ## UX Journal
 
-[Replace with title of journal](j01/)
+[Digital audio Workspace (DAWS) ](j01/)
+"Name": "Reynaldo Cuesta",
+  "Date": "March 06, 2024",
