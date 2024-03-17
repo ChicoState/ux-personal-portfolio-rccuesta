@@ -9,5 +9,6 @@ Coming soon.
 ## UX Journal
 
 [Digital audio Workspace (DAWS) ](j01/)
-"Name": "Reynaldo Cuesta",
+
+  "Name": "Reynaldo Cuesta",
   "Date": "March 06, 2024",
