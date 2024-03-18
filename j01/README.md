@@ -1,4 +1,5 @@
-# First Journal Entry...
+Lost Builds Remastered
+
 I chose to investigate LEGO® Builder, 
 
 Growing up one of my biggest hobbies was collecting Legos, I would build them, display them, and then toss out their boxes and instructions. Most of the time the instructions would get destroyed or lost but my sets were mainly used as decorations so I was never worried about having to rebuild them; however, one day after school I came home and my sets were all over the floor and destroyed. Without the instructions, there was no way for me to rebuild them, so into a bucket they went. 
