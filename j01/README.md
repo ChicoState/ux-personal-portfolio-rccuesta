@@ -1,10 +1,10 @@
 # Lost Builds Remastered
 
-I chose to investigate LEGO® Builder, 
+I chose to investigate LEGO® Builder, an app that contains hundreds of instruction manuals from a multitude of themes. As a result of these online PDFs builders no longer have to rely on their physical manuals. lost or destroyed it doesn't matter, instructions can now be accessed with a couple of clicks, it also allows builders to see the parts they need so they can order the parts and recreate the sets they were unable to buy during a specific time, new or retired.
 
 Growing up one of my biggest hobbies was collecting Legos, I would build them, display them, and then toss out their boxes and instructions. Most of the time the instructions would get destroyed or lost but my sets were mainly used as decorations so I was never worried about having to rebuild them; however, one day after school I came home and my sets were all over the floor and destroyed. Without the instructions, there was no way for me to rebuild them, so into a bucket they went. 
 
-Before discovering this app there were only a few ways to obtain set instructions, mainly 3rd party sites and resellers which meant depending on the popularity of the set or instructions it could be a lot more costly.
+Before the creation of these app, there were only a few ways to obtain set instructions, mainly 3rd party sites and resellers which meant depending on the popularity of the set or instructions it could be a lot more costly. Having the instruction available online creates an efficient 
 
 ![image](https://github.com/ChicoState/ux-personal-portfolio-rccuesta/assets/157550065/c4f59383-f2e8-4d07-9e03-59a5520e2107)
 
