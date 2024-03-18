@@ -8,6 +8,6 @@ Coming soon.
 
 ## UX Journal
 
-[Digital audio Workspace (DAWS) ](j01/)
+[Lost Builds Remastered](j01/)
 
 Reynaldo Cuesta March 17, 2024
