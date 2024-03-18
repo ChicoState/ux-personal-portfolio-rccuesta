@@ -21,7 +21,8 @@ At the time the only way to obtain lost or destroyed set instructions was from 3
 
 ![image](https://github.com/ChicoState/ux-personal-portfolio-rccuesta/assets/157550065/c4f59383-f2e8-4d07-9e03-59a5520e2107)
 
-Lego Builder utilizes an application of **"Recognition Rather than Recall"**, a useability guideline that uses visual cues rather than relying on the builder to remember the previous step and how they should adapt it to a future step. A reason a builder might want to use an application like this than using the instruction manual is that it uses viuals that help the user see how trhey need to build and where it goes 
+Lego Builder utilizes an application of **"Recognition Rather than Recall"**, a useability guideline that uses visual cues rather than relying on the builder to remember the previous step and how they should adapt it to a future step. A reason a builder might want to use an application like this than using the instruction manual is that it uses visuals that help the user see how trhey need to build and where it goes 
 
 ![UX  (2)](https://github.com/ChicoState/ux-personal-portfolio-rccuesta/assets/157550065/c2208cf4-30c0-4714-a6fc-67e5d33b590b)
 
+Overtime sets have been recreated so when trying to remember which set 
