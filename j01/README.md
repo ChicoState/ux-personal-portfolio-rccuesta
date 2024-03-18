@@ -14,7 +14,9 @@ Lego Builder utilizes an application of **"Recognition Rather than Recall"**, a 
 
 ![UX  (2)](https://github.com/ChicoState/ux-personal-portfolio-rccuesta/assets/157550065/c2208cf4-30c0-4714-a6fc-67e5d33b590b)
 
-Sets have been recreated multiple times over the years so trying to find the exact set that matches yours can be challenging, prefiltering instructions by grouping themes and separating the sets by the release date can create an easier experience for the user. 
+Sets have been recreated multiple times over the years so trying to find the exact set that matches yours can be challenging. Prefiltering instructions by grouping themes and separating the sets by the release date can create an easier experience for the user as well as create a more **aesthetic** workspace. 
 
 ![IMG_0224](https://github.com/ChicoState/ux-personal-portfolio-rccuesta/assets/157550065/46d0686f-f4f2-41c5-b277-64f114809d4f)
 ![IMG_0225](https://github.com/ChicoState/ux-personal-portfolio-rccuesta/assets/157550065/586155da-72dc-48b3-88b7-6a635e3461fa)
+
+For the most part online instruction manuals come in handy, especially if you no longer have the manuals, but other times the app can be flawed. A big issue can be the rendering of images on the older sets, it takes a lot of zooming in to see where the parts go. The 3-D modeling on the older sets either doesn't work or sometimes causes it to freeze up. Every update they slowly incorporate 3-D modeling to other sets that don't already have it, so if you're working on a set with modeling the next one you work on might not have it. They are pretty good about having the majority of the instruction sets but there are still a few that don't seem to appear on the site as of yet.
