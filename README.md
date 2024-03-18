@@ -10,4 +10,4 @@ Coming soon.
 
 [Lost Builds Remastered](j01/)
 
-I decided to investigate an app called LEGO® builder this application consist of hundreds manuals 
+I decided to investigate LEGO® Builder, an application that stores hundreds manuals 
