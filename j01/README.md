@@ -4,7 +4,7 @@ Reynaldo Cuesta ( March 18, 2024)
 
 I chose to investigate LEGO® Builder, an app that contains hundreds of instruction manuals from a multitude of themes, new and retired. As a result of these online PDFs builders no longer have to rely on their physical manuals. lost or destroyed it doesn't matter, instructions can now be accessed **efficiently** with a couple of clicks. As sets retire prices go up as they become collectible items; recreating the instructions allows fans to obtain these sets by buying each part and rebuilding the set themselves. While they don't have the original they have a desired set and a fraction of the price.
 
-Growing up one of my biggest hobbies was collecting Legos, I would build and display them around my room. Most of the time the instructions would get destroyed or lost but my sets were mainly used as decorations so I was never worried about having to rebuild them. One day after school, however, I came home and my sets were all over the floor and destroyed. Without the instructions, there was no way for me to rebuild my sets, so into a container they went. 
+Growing up one of my biggest hobbies was collecting Legos, I would build and display them around my room. Most of the time the instructions would get destroyed or lost but my sets were mainly used as decorations so I was never worried about having to rebuild them. One day after school, however, I came home and my sets were all over the floor and destroyed. Without the instructions, there was no way for me to rebuild my sets. 
 
 Before the creation of a platform with Lego manuals, the only ways to obtain instructions were from  3rd party sites, and resellers which meant depending on the popularity of the set or instructions it could be a lot more costly. 
 
