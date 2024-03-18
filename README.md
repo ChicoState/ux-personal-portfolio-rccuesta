@@ -27,5 +27,5 @@ Lego Builder utilizes an application of **"Recognition Rather than Recall"**, a 
 
 Overtime sets have been recreated so when trying to remember which set 
 
-![IMG_0224](https://github.com/ChicoState/ux-personal-portfolio-rccuesta/assets/157550065/b832374c-97e5-4a8f-b378-e19847b168af)
-![IMG_0225](https://github.com/ChicoState/ux-personal-portfolio-rccuesta/assets/157550065/deab539c-9651-492e-bc3f-140870b5f969)
+![IMG_0225](https://github.com/ChicoState/ux-personal-portfolio-rccuesta/assets/157550065/586155da-72dc-48b3-88b7-6a635e3461fa)
+![IMG_0224](https://github.com/ChicoState/ux-personal-portfolio-rccuesta/assets/157550065/46d0686f-f4f2-41c5-b277-64f114809d4f)
