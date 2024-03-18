@@ -6,7 +6,7 @@ I chose to investigate LEGO® Builder, an app that contains hundreds of instruct
 
 Growing up one of my biggest hobbies was collecting Legos, I would build and display them around my room. Most of the time the instructions would get destroyed or lost but my sets were mainly used as decorations so I was never worried about having to rebuild them. One day after school, however, I came home and my sets were all over the floor and destroyed. Without the instructions, there was no way for me to rebuild my sets. 
 
-Instruction manuals, like books you read from left top right, so when using the online manuals I would assume that it would be the same; I'm using my **mental model** (How I think it should work) as a basis to imagine how the software would work, the  **conceptual model** (How it actually works) for this scenario would match. Making the online manuals as close to the physical manuals allows all users to transfer their preexisting knowledge to a different platform.
+Instruction manuals, like books you read from left top right, so when using the online manuals I would assume that it would be the same; I'm using my **mental model** (How I think it should work) as a basis to imagine how the software would work, the  **conceptual model** (How it actually works) for this scenario would match. Making the online manuals as close to the physical manuals allows all users to transfer their preexisting knowledge to a different platform which falls into one of our heuristic evaluations **"Consistency and Standards"**.
 
 ![image](https://github.com/ChicoState/ux-personal-portfolio-rccuesta/assets/157550065/c4f59383-f2e8-4d07-9e03-59a5520e2107)
 
@@ -14,7 +14,7 @@ Lego Builder utilizes an application of **"Recognition Rather than Recall"**, a 
 
 ![UX  (2)](https://github.com/ChicoState/ux-personal-portfolio-rccuesta/assets/157550065/c2208cf4-30c0-4714-a6fc-67e5d33b590b)
 
-Sets have been recreated multiple times over the years so trying to find the exact set that matches yours can be challenging, so grouping themes and separating the sets by the release date can create an easier experience for the user.
+Sets have been recreated multiple times over the years so trying to find the exact set that matches yours can be challenging, prefiltering instructions by grouping themes and separating the sets by the release date can create an easier experience for the user. 
 
 ![IMG_0224](https://github.com/ChicoState/ux-personal-portfolio-rccuesta/assets/157550065/46d0686f-f4f2-41c5-b277-64f114809d4f)
 ![IMG_0225](https://github.com/ChicoState/ux-personal-portfolio-rccuesta/assets/157550065/586155da-72dc-48b3-88b7-6a635e3461fa)
