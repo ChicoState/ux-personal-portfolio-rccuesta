@@ -21,5 +21,5 @@ At the time the only way to obtain lost or destroyed set instructions was from 3
 
 ![image](https://github.com/ChicoState/ux-personal-portfolio-rccuesta/assets/157550065/c4f59383-f2e8-4d07-9e03-59a5520e2107)
 
-![UX  (1)](https://github.com/ChicoState/ux-personal-portfolio-rccuesta/assets/157550065/ae93a324-1b09-4872-9449-bc294a68d532)
+![UX  (2)](https://github.com/ChicoState/ux-personal-portfolio-rccuesta/assets/157550065/c2208cf4-30c0-4714-a6fc-67e5d33b590b)
 
